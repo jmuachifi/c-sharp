@@ -1,0 +1,13 @@
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\jmuac\source\repos\c-sharp\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
