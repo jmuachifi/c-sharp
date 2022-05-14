@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{1C9A9D12-422A-4528-9CF1-2ED5780363C4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>output</RootNamespace>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\push-to-checkout.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\main" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\objects\pack\pack-b9b94c792c2abd2ae521440f819124a74458129b.idx" />
+    <None Include=".git\objects\pack\pack-b9b94c792c2abd2ae521440f819124a74458129b.pack" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\main" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".vscode\launch.json" />
+    <None Include=".vs\c-sharp\v16\.suo" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="getStarted\HelloWorld\.vs\HelloWorld\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="getStarted\HelloWorld\.vs\HelloWorld\v16\.suo" />
+    <None Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json" />
+    <None Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json" />
+    <None Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json" />
+    <None Include="getStarted\HelloWorld\HelloWorld\HelloWorld.csproj" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.assets.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\HelloWorld.csproj.nuget.dgspec.json" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\HelloWorld.csproj.nuget.g.props" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\HelloWorld.csproj.nuget.g.targets" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\project.assets.json" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\project.nuget.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.assets.cache" />
+    <None Include="getStarted\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".git\ms-persist.xml" />
+    <Content Include="getStarted\HelloWorld\HelloWorld.sln" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\apphost.exe" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.FileListAbsolute.txt" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.AssemblyInfo.cs" />
+    <Content Include="getStarted\HelloWorld\HelloWorld\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include=".vs\output\v16\" />
+    <Folder Include="getStarted\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\" />
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

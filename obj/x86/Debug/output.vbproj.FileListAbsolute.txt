@@ -1,0 +1,2 @@
+C:\Users\jmuac\source\repos\c-sharp\obj\x86\Debug\output.vbproj.AssemblyReference.cache
+C:\Users\jmuac\source\repos\c-sharp\obj\x86\Debug\output.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.exe
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.deps.json
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.runtimeconfig.json
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.runtimeconfig.dev.json
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.dll
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\bin\Debug\netcoreapp3.1\Output.pdb
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.AssemblyInfoInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.AssemblyInfo.cs
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.csproj.CoreCompileInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.dll
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.pdb
+C:\Users\jmuac\source\repos\c-sharp\Output\Output\obj\Debug\netcoreapp3.1\Output.genruntimeconfig.cache

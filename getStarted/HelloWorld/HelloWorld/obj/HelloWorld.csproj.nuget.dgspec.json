@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\jmuac\\.nuget\\packages\\",
-        "outputPath": "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faKQ13yebgukgU/R4Z1aV8Zlz6Ydf15FKr6o4+IYR9JHYTbxm7ZosQA/ElM+UoSGp0zGfwdifNY2MfeEb6Yq4A==",
+  "dgSpecHash": "fqw9P80pDrtvFzGUnXqBCvW8DTCuHvS71ofX7+M0DanbBDqiWDYdNLXbsDNKfar3WpwJIwYtukOJBLFIILT/EA==",
   "success": true,
-  "projectFilePath": "D:\\Testes\\w3school\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\jmuac\\Source\\Repos\\c-sharp\\getStarted\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

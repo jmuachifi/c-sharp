@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\getStarted"
+    "\\getStarted",
+    "\\getStarted\\HelloWorld",
+    "\\getStarted\\HelloWorld\\HelloWorld"
   ],
-  "SelectedNode": "\\getStarted",
+  "SelectedNode": "\\getStarted\\HelloWorld\\HelloWorld.sln",
   "PreviewInSolutionExplorer": false
 }
