@@ -1,0 +1,13 @@
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\jmuac\source\repos\c-sharp\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
